@@ -1,1 +1,3 @@
 Hello, world! in <master branch>.
+
+42! added in <dev branch>.
